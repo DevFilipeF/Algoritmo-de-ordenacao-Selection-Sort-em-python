@@ -30,7 +30,4 @@ Este projeto implementa um algoritmo de ordenação usando o método **Selection
 
 ---
 
-## Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/selection-sort-python.git
+
